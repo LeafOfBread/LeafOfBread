@@ -19,14 +19,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Daniel from Austria<br><br>- 🔭 I’m studying CS at FH Technikum Vienna<br>- 📚 I'm currently learning C#, .NET, Python, Scikit-learn, REST-Development<br>- ⚡ In my free time I write music, do powerlifting, code</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
